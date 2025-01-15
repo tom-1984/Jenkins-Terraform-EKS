@@ -32,5 +32,4 @@ After successfully completing this tutorial, I’d love to hear your thoughts! S
 
 ## 🖼️ Author
 
-![Author Image](https://media.licdn.com/dms/image/v2/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718971147172?e=1742428800&v=beta&t=TyPcl_ilizNzxeGC2NIidGTn5sYlACFpDOJg2xhc2sY)
-*(Profile image of the author displayed in a small circular shape)*
+<img src="https://media.licdn.com/dms/image/v2/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718971147172?e=1742428800&v=beta&t=TyPcl_ilizNzxeGC2NIidGTn5sYlACFpDOJg2xhc2sY" alt="Author Image" width="100" style="border-radius: 50%;">
