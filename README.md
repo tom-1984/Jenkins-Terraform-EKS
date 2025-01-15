@@ -13,7 +13,7 @@ In this tutorial, we will explore how to create an **Amazon EKS Cluster** using 
 ## 🎥 Watch the Tutorial
 
 YouTube Link: [Click here to watch the video](#)
-*(Replace with the actual YouTube link)*
+*(Video releasing on 19-01-2025)*
 
 ---
 
